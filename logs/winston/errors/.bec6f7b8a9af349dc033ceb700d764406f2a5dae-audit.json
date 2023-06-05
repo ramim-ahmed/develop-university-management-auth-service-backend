@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/errors/.bec6f7b8a9af349dc033ceb700d764406f2a5dae-audit.json",
+    "files": [
+        {
+            "date": 1685910760832,
+            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/errors/error-2023-06-05-02.log",
+            "hash": "415eeac6c4d7e13648bad300f367a7ae4ae05bb7f84b4b6d9b954f31eaf5f9c8"
+        }
+    ],
+    "hashType": "sha256"
+}
