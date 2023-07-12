@@ -6,59 +6,89 @@
     "auditLog": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/.e1ac909c1cafca3c8fa3d82ef62b2ce43160fec6-audit.json",
     "files": [
         {
-            "date": 1685910760828,
-            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-05-02.log",
-            "hash": "9b731123ae6c469c7fe4c66838148abcca2281c26370ff161bd5b900749801a7"
+            "date": 1687034731615,
+            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-18-02.log",
+            "hash": "7e8e2608a694c0a2200354a25fc042f91d9ad5f3e2a42027f51c6e6400e7fe69"
         },
         {
-            "date": 1686167834477,
-            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-08-01.log",
-            "hash": "a3761f30228d75f210fe115a444e32a20ddb10d17b87dc051ef2cef40f4e5440"
+            "date": 1687201139346,
+            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-20-00.log",
+            "hash": "12d46555bd4bd2ae80a07d6f9a4ffcd71cbe1c3728fa52a34417528d8b8e0100"
         },
         {
-            "date": 1686168170624,
-            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-08-02.log",
-            "hash": "14f799b8ee9a1f945dcfeb3bf73d9ac599f1fed044ef10033bdf88917493ac88"
+            "date": 1687201268298,
+            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-20-01.log",
+            "hash": "e9f09ed6b9c4e6250803027f7b7a338dee6a0ea37c9a0cdebc13ce55ff540584"
         },
         {
-            "date": 1686175714340,
-            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-08-04.log",
-            "hash": "4fa5cd1f2e0b82d8e4adb19b38a08bfa1bb1d1a47ac1b8cd5a107cdeabe5c6a6"
+            "date": 1687206143494,
+            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-20-02.log",
+            "hash": "675c188e0c8d7b569be7e7df5d5de3ff6eeb3ee281f0a966ca7e4c61fe75d985"
         },
         {
-            "date": 1686324292850,
-            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-09-21.log",
-            "hash": "5ff04b0258c666223881dc6d63200bb23051a9887bbb769de1f3249a5ef0ba2a"
+            "date": 1687208466743,
+            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-20-03.log",
+            "hash": "b2bf422a5a9f913c153c3278da4ab23fad410d78c6992e6f8f46afc91aa12780"
         },
         {
-            "date": 1686326482509,
-            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-09-22.log",
-            "hash": "c0f446cb4f5f78ff821e25bc6384fa4077d69754ef76085450aa632dceb3a6be"
+            "date": 1687290360741,
+            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-21-01.log",
+            "hash": "a1da53f27738dfa25e4a521c60b0ed4134968e23487cef41a85df313e07d51ce"
         },
         {
-            "date": 1686332551689,
-            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-09-23.log",
-            "hash": "b06f1e18d1ab4312998185fa8b611596eb26c73d986c1f78c6d09b3ed173786a"
+            "date": 1687310351256,
+            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-21-07.log",
+            "hash": "9b1b230c361220af38000bd2ed825844e933dc41aa6d7113c77bc56544b8bc18"
         },
         {
-            "date": 1686333641989,
-            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-10-00.log",
-            "hash": "189dbd11a3a92751a1e7ea7f70e3de26e81768c09094efcf68c108f0a27c1afd"
+            "date": 1687519988985,
+            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-23-17.log",
+            "hash": "658fd2f0a63549f99ec561c7e525d507013a51d3e4f3a3cdc5659ed03b9d1121"
         },
         {
-            "date": 1686337634216,
-            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-10-01.log",
-            "hash": "fd8063de2ee0faf9db31afc0c5a4447ca466bcbcd1828ff73cb36bdf79cd33d4"
+            "date": 1687522858181,
+            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-23-18.log",
+            "hash": "5c6137778be676f16b07ea290fbbca68988b762b98f51ae0460f85d485f46d76"
         },
         {
-            "date": 1686341393415,
-            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-10-02.log",
-            "hash": "c69a82f46b25199c9a4965b8378b9f9dd9f58046eae60871d0aaae44d48f4842"
+            "date": 1687540894973,
+            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-23-23.log",
+            "hash": "61a5d7ce074c9c3f99cc2d3b0ac1c0d278097451b9f83ad88ebebe4555e80a2d"
         },
         {
-            "date": 1686509090585,
-            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-12-00.log",
-            "hash": "6aac0f147bc7cb9fd3b298b5b5d52f8ffac5827244eae0200b042aeef8bbfb3c"
+            "date": 1687547136523,
+            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-24-01.log",
+            "hash": "322ddda8c2681441a0fc92fe654a1031aa63a0a75b88598985778810f03d55ac"
+        },
+        {
+            "date": 1687550453297,
+            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-24-02.log",
+            "hash": "91abedfab98faa5cbb633faa1d126eca6a25ff521cd38ec88a5abbff20237ae9"
+        },
+        {
+            "date": 1687554214617,
+            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-24-03.log",
+            "hash": "e4611a6044933b4c910b01effaf55c785206c616278ab4071267de7d7dd306da"
+        },
+        {
+            "date": 1688139899032,
+            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-06-30-21.log",
+            "hash": "4dd2f5dea3d5e968a57f17dc16db6721dfa69bb1d0c7b1f1d4409aa58e6bb8bf"
+        },
+        {
+            "date": 1688197515991,
+            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-07-01-13.log",
+            "hash": "116e3a5bbaa1cf3c00c0ed574de476d80ead1636ba621ea59def23354a68a36d"
+        },
+        {
+            "date": 1688199206230,
+            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-07-01-14.log",
+            "hash": "778f2b6d6161f018e84fcec92d05b784ee510967d1b087621359b5d65aaf41b0"
+        },
+        {
+            "date": 1688202088547,
+            "name": "/Users/macbook/web-level-2/backend/university-management-application/auth-services/logs/winston/successes/success-2023-07-01-15.log",
+            "hash": "d78af7f58b17716c7dafcea3364d3b91688ee31d311d3d9b29e609beb8034d86"
         }
     ],
     "hashType": "sha256"
